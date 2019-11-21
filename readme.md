@@ -74,7 +74,7 @@ Navigate to http://192.168.33.5
 
 Login: icingaadmin
 
-Password: icingaadmin
+Password: icinga
 
 ______
 
